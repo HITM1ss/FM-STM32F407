@@ -1,0 +1,4 @@
+.workbuddy/
+MDK-ARM/STM32F407/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.lst
